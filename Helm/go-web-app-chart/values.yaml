@@ -3,6 +3,6 @@ replicaCount: 1
 image:
   repository: jaynwinn/go-web-app
   pullPolicy: IfNotPresent
-  tag: "27233926047"
+  tag: "27234016865"
 
 
